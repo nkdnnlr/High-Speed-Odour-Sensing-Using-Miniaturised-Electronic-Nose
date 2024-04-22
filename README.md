@@ -1,5 +1,7 @@
 # High-Speed-Odour-Sensing-Using-Miniaturised-Electronic-Nose
 
+### Introduction
+This repository contains code snippets for loading, displaying, and processing (WIP) data that was collected with a high-speed electronic nose. 
 
 ### Setup
 Install the latest version of Python. In a virtual environment, run the following script:

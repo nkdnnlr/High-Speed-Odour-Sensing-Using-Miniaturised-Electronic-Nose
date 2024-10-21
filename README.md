@@ -10,10 +10,12 @@ pip install -r requirements.txt
 ```
 
 ### Get data
-Download the data located here: https://doi.org/10.5061/dryad.pg4f4qrxz 
+Download the data located [here](https://doi.org/10.5061/dryad.pg4f4qrxz) and unzip in data directory. 
 
 ### Load and display data
-For loading and displaying the data, run the jupyter notebook [00_display_data.ipynb](https://github.com/nkdnnlr/High-Speed-Odour-Sensing-Using-Miniaturised-Electronic-Nose/blob/main/00_display_data.ipynb).
+For loading and displaying the data, run the following jupyter notebook. 
+
+[00_display_data.ipynb](https://github.com/nkdnnlr/High-Speed-Odour-Sensing-Using-Miniaturised-Electronic-Nose/blob/main/00_display_data.ipynb).
 
 ### Run analysis and produce figures
 For running the analysis and producing the figures, run the jupyter notebooks below. Attention: Change the path to where you've downloaded the data to. 
